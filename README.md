@@ -45,14 +45,6 @@ amazon-clone/
 └── README.md
 ```
 
-## 🌐 Live Demo
-
-[View Live Demo](#)
-
-## 📁 Repository
-
-[View Source Code](#)
-
 ## 👨‍💻 Author
 
 **Hamza Saeed**
